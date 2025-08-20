@@ -14,15 +14,15 @@
 
 ## 必要な入力ファイル
 
-- `drafts/draft_{TIMESTAMP}.md`
-- `drafts/quality_check_{TIMESTAMP}.md`
+- `docs/drafts/draft_{TIMESTAMP}.md`
+- `docs/drafts/quality_check_{TIMESTAMP}.md`
 
 ## タスク TODO
 
 1. ドラフト検証（YAML/脚注/画像ライセンス）
 2. 保存先ディレクトリ決定
 3. ファイル名生成 `[YYYY-MM-DD]_{短縮タイトル}.md`
-4. 保存＋バックアップ `drafts/backup/`
+4. 保存＋バックアップ `docs/drafts/backup/`
 5. Git 操作（PowerShell）
    ```powershell
    git add .
@@ -40,9 +40,9 @@
 
 ## 出力ルール
 
-- news/: `#ai-news`タグあり
-- articles/: 技術詳細記事
-- memo/: 短報・メモ
+- docs/news/: `#ai-news`タグあり
+- docs/articles/: 技術詳細記事
+- docs/memo/: 短報・メモ
 
 ## 最終出力
 

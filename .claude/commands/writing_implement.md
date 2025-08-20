@@ -27,8 +27,8 @@
 6. 品質スコアリング（100 点満点）
    - 形式(20)/出典(20)/明瞭(20)/正確(20)/可読(20) → 合格基準 80
 7. 保存
-   - 本文: `drafts/draft_{TIMESTAMP}.md`
-   - 品質: `drafts/quality_check_{TIMESTAMP}.md`
+   - 本文: `docs/drafts/draft_{TIMESTAMP}.md`
+   - 品質: `docs/drafts/quality_check_{TIMESTAMP}.md`
 8. サマリ出力
 
 ## 引数仕様
