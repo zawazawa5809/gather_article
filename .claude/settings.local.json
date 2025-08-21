@@ -6,7 +6,8 @@
       "Bash(powershell:*)",
       "Bash(cp:*)",
       "Bash(mv:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []
