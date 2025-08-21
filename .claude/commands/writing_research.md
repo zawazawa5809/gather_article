@@ -35,7 +35,7 @@
 - **scope**: jp/en/both（既定 both）
 - **depth**: basic/standard/detailed（既定 detailed）
 - **format**: markdown/structured（既定 markdown）
-- **time_range**: 期間（例: P18M ＝ 18 か月）
+- **time_range**: 期間（例: P18M ＝ 12 か月）
 - **include_domains/exclude_domains**: カンマ区切り
 - **keywords/negative_keywords**: 追加/除外語
 
