@@ -34,7 +34,7 @@
 - **type**: news/article/memo/auto（既定 article）
 - **audience**: general/expert/auto（既定 general）
 - **template**: 自動/指定
-- **word_count**: 目標文字数（既定 20000、最小 10000）
+- **word_count**: 目標文字数（既定 10000、最小 5000）
 
 ## 出力ファイル
 
