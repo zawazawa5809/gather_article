@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(time:*)",
+      "Bash(powershell:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(git add:*)",
+      "WebSearch",
+      "Bash(copy:*)",
+      "mcp__git__git_add",
+      "mcp__git__git_commit",
+      "Read(C:\\Programing\\gather_article\\docs\\research/**)",
+      "Read(C:\\Programing\\gather_article\\docs\\plan/**)",
+      "Read(C:\\Programing\\gather_article\\docs\\research/**)",
+      "Read(C:\\Programing\\gather_article\\docs\\drafts/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
